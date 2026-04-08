@@ -5,10 +5,5 @@ node_modules/
 .DS_Store
 
 
-// windows
-node_modules/
-.env
-.env.*
-*.log
-.DS_Store
+// only for windows
 Thumbs.db
